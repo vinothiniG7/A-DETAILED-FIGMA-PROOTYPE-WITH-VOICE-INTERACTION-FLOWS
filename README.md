@@ -12,7 +12,8 @@ DURATION : 4 WEEKS
 MENTOR : NEELA SANTOSH
 
 #DESCRIPTION
- Figma Design File & Prototype
+ 
+ ## Figma Design File & Prototype
 
 Explore the visual interface, user flows, and interactive prototypes (simulating voice commands where possible) in our Figma file:
 
@@ -91,6 +92,7 @@ This project explores the exciting possibilities of voice-first and voice-assist
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/e3d48bee-24e7-4bf8-9e68-121306aa14f6)
 
 
-#OUTPUT
+
